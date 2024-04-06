@@ -21,7 +21,7 @@ This package is particularly suitable for simpler cases where detailed pathfindi
 ---
 
 # Links
-- [Download Package](https://github.com/christinec-dev/NavPath2D/tree/main/Package)
+- [Download Package](https://github.com/christinec-dev/NavPath2D/tree/main/Packages)
 - [GitBook](https://oops-i-devd.gitbook.io/christinec-dev)
 - [Join My Discord](https://discord.gg/4N6b4bkC8h)
 - [Support Me](https://ko-fi.com/christinedevs)
