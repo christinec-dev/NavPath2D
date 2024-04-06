@@ -1,7 +1,9 @@
-
+![SPRITENATOR (1920 x 1300 px)](https://github.com/christinec-dev/NavPath2D/assets/87696858/c4455408-ffcd-4fcf-a4f0-6bb66a33a796)
 ![4](https://github.com/christinec-dev/NavPath2D/assets/87696858/71456c8f-11ee-4184-9008-7b02c0379bad)
 ![5](https://github.com/christinec-dev/NavPath2D/assets/87696858/531e49dd-a40b-4ac2-ac86-ad6098b2ab8b)
+
 ---
+
 # Overview
 NavPath2D is a GUI-based tool designed to simplify the creation and management of navigation paths for 2D entities in Unity. It allows you to draw paths (that entities such as your AI should follow) directly in your Unity Editor scene. 
 
