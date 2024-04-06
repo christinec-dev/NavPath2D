@@ -57,7 +57,7 @@ In your game scene, add a new empty GameObject and rename it to something like "
 
 ## Add Path Script:
 
-Attach the `Path.cs` script to this GameObject. This script (which can be found in the Scripts/Navigation folder) allows you to draw paths onto your scene via the `PathEditor.cs` (found in ssets/Editor/NavPath2D/) Editor script as it holds the Waypoints that we add.
+Attach the `Path.cs` script to this GameObject. This script (which can be found in the Scripts/NavPath2D folder) allows you to draw paths onto your scene via the `PathEditor.cs` (found in ssets/Editor/NavPath2D/) Editor script as it holds the Waypoints that we add.
 
 ![Screenshot 2024-04-06 150640](https://github.com/christinec-dev/NavPath2D/assets/87696858/7cbe91c8-1c0a-40e7-a8bb-f66ed8dff0fb)
 ![Screenshot 2024-04-06 150645](https://github.com/christinec-dev/NavPath2D/assets/87696858/214479ae-2727-469e-9b7c-d6c442219f10)
