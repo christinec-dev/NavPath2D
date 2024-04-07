@@ -27,7 +27,7 @@ _*Please note that this tool is meant for simple navigation, and it will not giv
 - [GitBook](https://oops-i-devd.gitbook.io/christinec-dev)
 - [Join My Discord](https://discord.gg/4N6b4bkC8h)
 - [Support Me](https://ko-fi.com/christinedevs)
-- [Unity Package](https://assetstore.unity.com/packages/slug/281705)
+- [Unity Package](https://christinec-dev.itch.io/navpath2d)
   
 ---
 
