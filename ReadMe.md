@@ -11,6 +11,8 @@ These paths can then be saved as prefabs and assigned to entities. These entitie
 
 This package is particularly suitable for simpler cases where detailed pathfinding is not required, offering a straightforward alternative to more complex solutions. You also have the flexibility to expand upon the basic functionality, making it adaptable to various genres and project requirements.
 
+Join my Discord if you want to give feedback on this plugin or to help me update it: https://discord.gg/FnD8355w
+
 _*Please note that this tool is meant for simple navigation, and it will not give you the uniqueness that you can achieve through the use of A* Pathfinding algorithms. There are plenty of tools out there, many paid and expensive, so this tool was made to be an easy and affordable solution to 2D navigation issues._
 
 ---
